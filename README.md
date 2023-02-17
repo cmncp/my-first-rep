@@ -1,2 +1,2 @@
-# my.first-rep
+# my-first-rep
 repositorio con freeCodeCamp
